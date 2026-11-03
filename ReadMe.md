@@ -1,5 +1,8 @@
-# 💫 About Me:
-# 👋 Hi, I'm Rishikesh Kumar<br><br>### 💻 Computer Science & Engineering Student | Java Developer | Python Programmer | Aspiring Cybersecurity Engineer<br><br>I'm a B.E. Computer Science and Engineering student passionate about building software, exploring cybersecurity, and developing innovative technology solutions.<br><br>I enjoy turning ideas into practical projects, solving real-world problems, and continuously improving my development skills.<br><br>### 🚀 About Me<br>- 🎓 B.E. Computer Science & Engineering (2025–2029)<br>- 💻 Interested in Software Development & Full-Stack Development<br>- 🔐 Exploring Cybersecurity and Threat Analysis<br>- ☕ Learning Java, Python, and Database Technologies<br>- 🛠️ Building practical projects and experimenting with new technologies<br>- 🌱 Always learning, building, and improving.<br><br>### 🧑‍💻 Technical Skills<br>- **Languages:** C, Python, Java<br>- **Frontend:** HTML, CSS<br>- **Backend:** Java<br>- **Database:** Oracle Database, SQL Fundamentals<br>- **Cybersecurity:** Phishing URL Detection, Threat Analysis<br>- **Tools:** Git, GitHub, AutoCAD<br><br>### 📌 Featured Project<br>**PHISHGUARD – Phishing URL Detection & Threat Analysis**<br><br>A Java-based application designed to analyze suspicious URLs and display potential phishing threats through a user-friendly interface.<br><br>### 🎯 Career Interests<br>- Java Development<br>- Full-Stack Development<br>- Python Development<br>- Cybersecurity<br>- Software Engineering<br><br><br>---<br><br>⭐ *"Code. Learn. Build. Repeat."*
+👋 Hi, I'm Rishikesh Kumar, a B.E. Computer Science Engineering student.
+💻 Passionate about Java, Python, and Software Development.
+🔐 Interested in Cybersecurity, Full-Stack Development, and Emerging Technologies.
+🚀 Building practical projects and continuously improving my technical skills.
+🌱 Always curious to learn, innovate, and turn ideas into reality.
 
 
 ## 🌐 Socials:
